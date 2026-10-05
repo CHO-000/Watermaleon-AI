@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "FastAPI: Watermelon Disease",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/run_api.py",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}
