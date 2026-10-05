@@ -13,7 +13,7 @@
 
 ## เปิดใน VS Code และรัน API
 
-เปิดโฟลเดอร์ `watermelon-disease-api` ใน VS Code แล้วกด Run and Debug > **FastAPI: Watermelon Disease** หรือรันคำสั่งด้านล่าง เครื่องนี้ใช้ Python 3.14 และ PyTorch ที่รองรับ CUDA และมีแพ็กเกจ API ใน `.vendor` สำหรับรันได้ทันทีบนเครื่องนี้
+เปิดโฟลเดอร์ `backend` ใน VS Code แล้วกด Run and Debug > **FastAPI: Watermelon Disease** หรือรันคำสั่งด้านล่าง เครื่องนี้ใช้ Python 3.14 และ PyTorch ที่รองรับ CUDA และมีแพ็กเกจ API ใน `.vendor` สำหรับรันได้ทันทีบนเครื่องนี้
 
 ```powershell
 py run_api.py
